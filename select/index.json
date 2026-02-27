@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Saturday",
+  "base_artist": "Mr.Children",
+  "createdAt": "2026-02-27T14:21:41.251139Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. Saturday Night",
+      "artist": "Jon Pardi",
+      "has_synced": false,
+      "path": "select/01_Mr._Saturday_Night_Jon_Pardi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "American Saturday Night",
+      "artist": "Brad Paisley",
+      "has_synced": true,
+      "path": "select/02_American_Saturday_Night_Brad_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Louisiana Saturday Night",
+      "artist": "Mel McDaniel",
+      "has_synced": true,
+      "path": "select/03_Louisiana_Saturday_Night_Mel_McDaniel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Louisiana Saturday Night",
+      "artist": "Mel McDaniel",
+      "has_synced": true,
+      "path": "select/04_Louisiana_Saturday_Night_Mel_McDaniel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Louisiana Saturday Night",
+      "artist": "Mel McDaniel",
+      "has_synced": true,
+      "path": "select/05_Louisiana_Saturday_Night_Mel_McDaniel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Saturday Night Special",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/06_Saturday_Night_Special_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Saturday Night Special (Album Version)",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/07_Saturday_Night_Special_(Album_Version)_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Saturday Nights REMIX",
+      "artist": "Khalid feat. Kane Brown",
+      "has_synced": true,
+      "path": "select/08_Saturday_Nights_REMIX_Khalid_feat._Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Saturday Nights REMIX",
+      "artist": "Khalid",
+      "has_synced": true,
+      "path": "select/09_Saturday_Nights_REMIX_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Single Saturday Night",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/10_Single_Saturday_Night_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Small Town Saturday Night",
+      "artist": "Hal Ketchum",
+      "has_synced": true,
+      "path": "select/11_Small_Town_Saturday_Night_Hal_Ketchum.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Saturday",
+      "artist": "Chris Garneau",
+      "has_synced": false,
+      "path": "select/12_Saturday_Chris_Garneau.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Saturday (Oooh! Ooooh!)",
+      "artist": "Ludacris feat. Sleepy Brown",
+      "has_synced": true,
+      "path": "select/13_Saturday_(Oooh!_Ooooh!)_Ludacris_feat._Sleepy_Brown.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Saturday (Oooh Oooh!) (feat. Sleepy Brown)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/14_Saturday_(Oooh_Oooh!)_(feat._Sleepy_Brown)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Drive In Saturday",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/15_Drive_In_Saturday_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Drive-In Saturday",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/16_Drive-In_Saturday_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Drive-In Saturday",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/17_Drive-In_Saturday_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Drive-In Saturday",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/18_Drive-In_Saturday_David_Bowie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Saturday",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_Saturday_Mr.Children.txt"
+    }
+  ]
+}
